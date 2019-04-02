@@ -6,5 +6,5 @@ Create 2 sets of 2 labels with buttons below each 2 different “players”. The
 
 Click the appropriate button to make each player's score go up. There should only be one component created for both players.
 
-### Challenge:
+# Challenge:
 Make it work with keyboard keys Q and P as well.
